@@ -63,7 +63,8 @@ All components rely on the Python standard library only.
 ## How to Run
 
 1. Place a file inside the `samples` directory
-2. Rename it to:
+2. Rename it to: test_file.bin
 3. Run the scanner:
 ```bash
 python main.py
+
