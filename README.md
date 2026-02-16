@@ -88,8 +88,8 @@ virus-scanner/
 ### 1. Clone Repository
 
 ```
-git clone https://github.com/YOUR_USERNAME/virus-scanner.git
-cd virus-scanner
+git clone https://github.com/onlygoku/virus-file-scanner.git
+cd virus-file-scanner
 ```
 
 ### 2. Install Dependencies
@@ -187,5 +187,6 @@ Developed as a cybersecurity learning project.
 ## License
 
 This project is released for educational use.
+
 
 
