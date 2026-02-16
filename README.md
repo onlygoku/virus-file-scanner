@@ -40,7 +40,7 @@ This project is designed for cybersecurity learning and portfolio demonstration 
 ## Project Structure
 
 ```
-virus-scanner/
+virus-file-scanner/
 │
 ├── app/
 │   ├── hashing.py
@@ -187,6 +187,7 @@ Developed as a cybersecurity learning project.
 ## License
 
 This project is released for educational use.
+
 
 
 
